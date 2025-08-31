@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HavaDurumuUygulamasi",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "HavaDurumuUygulamasi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HavaDurumuUygulamasi-Debug-018d0739ded6d0994df9.json",
+					"name" : "HavaDurumuUygulamasi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HavaDurumuUygulamasi_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HavaDurumuUygulamasi_autogen-Debug-b73ca89bd247a82efa9b.json",
+					"name" : "HavaDurumuUygulamasi_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HavaDurumuUygulamasi_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HavaDurumuUygulamasi_autogen_timestamp_deps-Debug-f30c5a86893427c5e116.json",
+					"name" : "HavaDurumuUygulamasi_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/PC/Desktop/QTDENEME/HavaDurumuUygulamasiDeneme1/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/PC/Desktop/QTDENEME/HavaDurumuUygulamasiDeneme1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
