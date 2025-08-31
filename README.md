@@ -25,4 +25,6 @@ Kullanıcı, istediği şehrin güncel hava durumu bilgilerini kolay ve hızlı 
    ```bash
    git clone https://github.com/banuercan/hava-durumu-uygulamas-.git
 2.Qt Creator ile açın.
+
 3.Gerekli bağımlılıkları yükledikten sonra projeyi build edin ve çalıştırın.
+
